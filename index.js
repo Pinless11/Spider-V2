@@ -89,7 +89,7 @@ const question = (text) => {
 
 // Create Display Console 
 const welcomeMessage = `
-[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝖐𝖎𝖓𝖌 𝖘𝖆𝖒⿻ ༑]]
+[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 Pinless⿻ ༑]]
 ┏─•⛩️ ${global.namabot} ⛩️•─⬣[⿻
 
 👋 Hii, I Am ${global.namabot}
@@ -312,7 +312,7 @@ ryoroyko.public = true;
                 console.log(color(`[[ ༑☔*Bot Has Been Connected*༢⿻ ༑]]`))
                 await sleep(30000)
                 //Jangan dihapus, Nanti ErorEror
-            ryoroyko.sendMessage('254104301695@s.whatsapp.net', {
+            ryoroyko.sendMessage('254746891290@s.whatsapp.net', {
                 image: {
                     url: 'https://telegra.ph/file/ea0b61624cf15d1210afb.jpg'
                 }, 
